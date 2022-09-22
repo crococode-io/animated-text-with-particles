@@ -1,6 +1,6 @@
 # Animated Text with Particles
 
-As you can see with this example, using particle effect is an elegant way to add a certain spice to the first impression. As a rule, particle animation can be seen in hero sections, and should delicately and unobtrusively separate the website from the crowd.
+As you can see with this example, using particle effect is an elegant way to add a certain spice to the first impression. As a rule, particle animation can be seen in hero sections, and should delicately and unobtrusively separate the website from the crowd. 
 
 ![Animated Text with Particles](https://raw.githubusercontent.com/crococode-io/images/main/animated-text-with-particles.png)
 
